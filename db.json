@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Sriram",
+        "Id": 23,
+        "IsLDAP": true,
+        "UpdatedDate": "1212",
+        "UpdatedBy": "Sriram"
+    },
+    {
+        "Name": "Shivaraj",
+        "Id": 12412,
+        "IsLDAP": true,
+        "UpdatedDate": "6523",
+        "UpdatedBy": "Sriram"
+    },
+    {
+        "Name": "Anil",
+        "Id": 23123,
+        "IsLDAP": false,
+        "UpdatedDate": "123534",
+        "UpdatedBy": "Sriram"
+    }
+]
